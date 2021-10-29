@@ -8,7 +8,7 @@
 
 
 ## General info
-This repo is a lab for flutter/dart development. 
+This repo works like a lab for flutter/dart development. The app implements a simple ID card for a contact. The whole thing is still under construction, which is why the code is incomplete and there is also very little information. 
 
 
 ## Technologies
@@ -21,7 +21,7 @@ This repo is a lab for flutter/dart development.
 
 
 ## App screenshots
-<kbd><img src="https://user-images.githubusercontent.com/5893219/139316223-6c2b0b5b-d470-4835-928a-6f629a03a1d6.png" width="133" height="260"></kbd>
+<kbd><img src="https://user-images.githubusercontent.com/5893219/139316223-6c2b0b5b-d470-4835-928a-6f629a03a1d6.png" width="200" height="400"></kbd>
 
 
 <!-- FOOTER (Author / Visit My Online Resume / Download My PDF Resume) -->
