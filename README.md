@@ -8,7 +8,7 @@
 
 
 ## General info
-This repo works like a lab for flutter/dart development. The app implements a simple ID card for a contact. The whole thing is still under construction, which is why the code is incomplete and there is also very little information. 
+This repo works like a lab for flutter/dart development. The app implements a simple ID card for a contact. The goal is to learn layout practices and to increment a value when pressing a floating action button. 
 
 
 ## Technologies
