@@ -21,13 +21,13 @@ This repo works like a lab for flutter/dart development. The app implements a si
 
 
 ## App screenshots
-<kbd><img src="https://user-images.githubusercontent.com/5893219/139316223-6c2b0b5b-d470-4835-928a-6f629a03a1d6.png" width="200" height="400"></kbd>
-<kbd><img src="https://user-images.githubusercontent.com/5893219/139557508-119d74a8-ac82-478a-92a3-80ade83a948b.png" width="200" height="400"></kbd>
-<kbd><img src="https://user-images.githubusercontent.com/5893219/139557509-20f09ee3-06b7-45f3-bf2b-7a75101f61f2.png" width="200" height="400"></kbd>
-<kbd><img src="https://user-images.githubusercontent.com/5893219/139557502-5fada3fd-a3a5-4de6-b97c-555247011bc9.png" width="200" height="400"></kbd>
-<kbd><img src="https://user-images.githubusercontent.com/5893219/139557504-4424f2e8-0a1d-4c36-9993-738750ff5b82.png" width="200" height="400"></kbd>
-<kbd><img src="https://user-images.githubusercontent.com/5893219/139557505-e3a21b3e-a5aa-44ff-bd34-daff95850454.png" width="200" height="400"></kbd>
-<kbd><img src="https://user-images.githubusercontent.com/5893219/139557506-00ca740b-eab2-46b8-aa30-c9d9c6b6bc1c.png" width="200" height="400"></kbd>
+<kbd><img src="https://user-images.githubusercontent.com/5893219/139316223-6c2b0b5b-d470-4835-928a-6f629a03a1d6.png" width="150" height="300"></kbd>
+<kbd><img src="https://user-images.githubusercontent.com/5893219/139557508-119d74a8-ac82-478a-92a3-80ade83a948b.png" width="150" height="300"></kbd>
+<kbd><img src="https://user-images.githubusercontent.com/5893219/139557509-20f09ee3-06b7-45f3-bf2b-7a75101f61f2.png" width="150" height="300"></kbd>
+<kbd><img src="https://user-images.githubusercontent.com/5893219/139557502-5fada3fd-a3a5-4de6-b97c-555247011bc9.png" width="150" height="300"></kbd>
+<kbd><img src="https://user-images.githubusercontent.com/5893219/139557504-4424f2e8-0a1d-4c36-9993-738750ff5b82.png" width="150" height="300"></kbd>
+<kbd><img src="https://user-images.githubusercontent.com/5893219/139557505-e3a21b3e-a5aa-44ff-bd34-daff95850454.png" width="150" height="300"></kbd>
+<kbd><img src="https://user-images.githubusercontent.com/5893219/139557506-00ca740b-eab2-46b8-aa30-c9d9c6b6bc1c.png" width="150" height="300"></kbd>
 
 
 <!-- FOOTER (Author / Visit My Online Resume / Download My PDF Resume) -->
