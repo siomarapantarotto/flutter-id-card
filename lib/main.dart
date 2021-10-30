@@ -4,7 +4,15 @@ void main() => runApp(MaterialApp(
       home: ContactId(),
     ));
 
-class ContactId extends StatelessWidget {
+class ContactId extends StatefulWidget {
+  @override
+  State<ContactId> createState() => _ContactIdState();
+}
+
+class _ContactIdState extends State<ContactId> {
+
+  int contactLevel = 0;
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -14,6 +22,15 @@ class ContactId extends StatelessWidget {
         centerTitle: true,
         backgroundColor: Colors.grey[850],
         elevation: 0.0,
+      ),
+      floatingActionButton: FloatingActionButton(
+        onPressed: () {
+          setState(() {
+            contactLevel += 1;
+          });
+        },
+        child: const Icon(Icons.add),
+        backgroundColor: Colors.grey[800],
       ),
       body: Padding(
         padding: const EdgeInsets.fromLTRB(30.0, 40.0, 30.0, 0.0),
@@ -56,9 +73,9 @@ class ContactId extends StatelessWidget {
               ),
             ),
             const SizedBox(height: 10.0),
-            const Text(
-              '10',
-              style: TextStyle(
+            Text(
+              '$contactLevel',
+              style: const TextStyle(
                 color: Colors.orangeAccent,
                 letterSpacing: 2.0,
                 fontSize: 24.0,
